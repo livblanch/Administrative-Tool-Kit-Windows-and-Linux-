@@ -147,7 +147,7 @@ The images below shows a System Health Check report that is created when our scr
 
 <img width="693" height="442" alt="system health report text editor" src="https://github.com/user-attachments/assets/78b4b650-fb3a-4fe8-b775-fff3ce03b7ba" />
 
-The image below shows the AdminToolKit after all tasks have been automated with the zipped Daily Report file and extract zip report folder: 
+The image below shows the AdminToolKit after all tasks have been automated with the zipped Daily Report file: 
 
 
 <img width="705" height="540" alt="Screenshot 2025-11-28 211116" src="https://github.com/user-attachments/assets/e69f2829-e4ef-4683-b29b-c9689d35709d" />
