@@ -105,6 +105,8 @@ The image below shows a successful setup (Linux-Bash)
 
 <img width="805" height="61" alt="create_desktop_admintoolkit2" src="https://github.com/user-attachments/assets/1cbd6fbd-ea16-45ee-b305-87d21e420217" />
 
+<img width="798" height="29" alt="Screenshot 2025-11-28 204221" src="https://github.com/user-attachments/assets/daa103ea-45c4-47ff-baac-acb093e8541d" />
+
 The image below shows moved sample CSV file for employee management into the folder: 
 <img width="1076" height="71" alt="move employees csv to toolkit" src="https://github.com/user-attachments/assets/a5708b76-0b44-45d6-9db7-68d9c24c4c70" />
 
