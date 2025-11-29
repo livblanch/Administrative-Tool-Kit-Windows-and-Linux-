@@ -13,7 +13,7 @@ This toolkit was specifically designed to simplify and streamline common admin t
 - Each system and organization is different, requiring careful customization of scripts to work best for your organization
 - Naming conventions or paths can be altered as needed to fit the organization. For example, "Employees.csv" can be altered if necessary. 
 - Default passwords given to newly created user accounts need to be changed in a timely manner to avoid unwanted access by threat actors 
-- Automation in our toolkit was performed at 2pm to work best for our academic schedule. Times should be changed accordingly to best fit the organization. Recommended time for automation is during off-peak hours (ex: 3am) as to not interfere with organizational tasks. 
+- Automation in our toolkit was performed at 2pm (Windows) 2:45pm (Linux) to work best for our academic schedule. Times should be changed accordingly to best fit the organization. Recommended time for automation is during off-peak hours (ex: 3am) as to not interfere with organizational tasks. 
 ## Project Relevance
 Effective and timely system administration is a crucial component of cybersecurity. Manual management of user accounts, log files and system health is not only time-consuming but also prone to human error, putting organizations and companies at risk of data breaches or cyber attacks. This toolkit addresses those concerns by automating routine admin tasks, ensuring consistency and efficiency. 
 
