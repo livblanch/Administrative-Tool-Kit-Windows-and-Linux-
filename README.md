@@ -99,7 +99,7 @@ The image below shows a successful run of the automated scripts and gives the us
 
 
 2. Ubuntu/Linux
-The image below shows a successful setup (Linux-Bash)
+The image below shows a successful setup (Linux-Bash) with the AdminToolKit and Tools folders
 
 <img width="749" height="58" alt="create_desktop_admintoolkit" src="https://github.com/user-attachments/assets/6df9b16a-8389-4ba8-aac1-aa747639a2a4" />
 
@@ -149,7 +149,8 @@ The images below shows a System Health Check report that is created when our scr
 
 The image below shows the AdminToolKit after all tasks have been automated with the zipped Daily Report file and extract zip report folder: 
 
-<img width="965" height="517" alt="AdminToolKit Final" src="https://github.com/user-attachments/assets/f633859a-0fb4-40fd-8db2-8f64f16b4f7e" />
+
+<img width="705" height="540" alt="Screenshot 2025-11-28 211116" src="https://github.com/user-attachments/assets/e69f2829-e4ef-4683-b29b-c9689d35709d" />
 
 
 ## Conclusion
