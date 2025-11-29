@@ -1,0 +1,15 @@
+Using log folder: /home/cara-mortati/Desktop/AdminToolKit/OrgData/Logs
+Using backup folder: /home/cara-mortati/Desktop/AdminToolKit/OrgData/Backups
+
+Creating 10 log files...
+Backdating first 5 logs by 8 days...
+Log creation and backdating complete.
+
+Finding logs older than 7 days...
+Archiving old logs...
+Moved system_log1.txt to backup
+Moved system_log2.txt to backup
+Moved system_log3.txt to backup
+Moved system_log4.txt to backup
+Moved system_log5.txt to backup
+Log rotation complete!
