@@ -49,12 +49,20 @@ Data Preparation:
 - Download designated CSV's for employee data (Employees.csv and TerminatedUsers.csv)
 - Create sample organizational directories and log files to simulate real-world conditions
 
-Script Development 
+Script Development (Windows)
 - BulkCreateUsers: creates users based on CSV data
 - BulkDeleteUsers: deletes terminated users
 - BulkAssignDepartments: creates department groups and assigns users based on employee data
 - ArchiveOldLogs: moves and compresses old logs
 - SystemHealthChecks: generates system health reports
+Script Development (Linux)
+- create_project_files.sh: creates project directories 
+- create_users.sh: creates users based on CSV data
+- bulk_delete_users.sh: deletes terminated users
+- create_users_departments.sh: creates department groups and assigns users based on employee data
+- log_manager.sh: moves and compresses old logs
+- backup_orgdata.sh: compress orgdata to backups
+- system_health.sh: generates system health reports
 Automation
 - Combine all scripts into MasterAutomation script
 -Schedule daily execution at a customizable time
