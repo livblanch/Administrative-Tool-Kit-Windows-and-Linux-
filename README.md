@@ -117,8 +117,7 @@ The image below shows the script that automatically configures all permissions f
 The images below shows users being created from the CSV file (Linux), by creating a script (nano) and making it executable (chmod +x) 
 
 **Note your file path should be ~/Desktop/AdminToolKit/Tools/create_users.sh***
-
-<img width="809" height="314" alt="create users execute" src="https://github.com/user-attachments/assets/f295a0ef-ee98-4982-b707-2bc70cc876b8" />
+<img width="809" height="328" alt="Screenshot 2025-11-28 215431" src="https://github.com/user-attachments/assets/0137b0d7-02df-4545-aa08-a6e9d0a7309c" />
 
 <img width="810" height="135" alt="users created" src="https://github.com/user-attachments/assets/fdb4fb37-a6f0-4659-aeb5-91e8385f1d72" />
 
@@ -128,7 +127,8 @@ The images below show the successful assignment of users to their corresponding 
 
 **Note your file path should be ~/Desktop/AdminToolKit/Tools/create_users_departments.sh***
 
-<img width="1160" height="663" alt="create user groups" src="https://github.com/user-attachments/assets/5ffe7761-e69c-4bf8-90ce-846f958b86fc" />
+<img width="811" height="351" alt="Screenshot 2025-11-28 215546" src="https://github.com/user-attachments/assets/a28cd8a7-1b07-469f-bd26-c02500dc4fc1" />
+
 
 <img width="906" height="352" alt="user groups employees" src="https://github.com/user-attachments/assets/127a6b3d-1657-4765-a743-aee29e346f32" />
 
@@ -138,7 +138,9 @@ The images below show the creation of log_manager.sh script for successful rotat
 
 **Note your file path should be ~/Desktop/AdminToolKit/Tools/log_manager.sh***
 
-<img width="802" height="547" alt="log rotation" src="https://github.com/user-attachments/assets/70cb1d5a-805e-4435-bedf-2f7120aaf752" />
+<img width="812" height="379" alt="Screenshot 2025-11-28 215208" src="https://github.com/user-attachments/assets/8c629a72-b6f2-4a8c-9070-4c945639eb83" />
+
+<img width="886" height="538" alt="Screenshot 2025-11-28 215054" src="https://github.com/user-attachments/assets/1d8e95df-eb93-4877-ad18-f3a6d182f0e6" />
 
 The image below shows the creation of the master_automation.sh script that automates all the sysadmin tasks: 
 
