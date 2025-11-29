@@ -64,6 +64,7 @@ Script Development (Linux)
 - log_manager.sh: moves and compresses old logs
 - backup_orgdata.sh: compress orgdata to backups
 - system_health.sh: generates system health reports
+
 Automation
 - Combine all scripts into MasterAutomation script
 -Schedule daily execution at a customizable time
