@@ -114,6 +114,7 @@ The image below shows the script that automatically configures all permissions f
 <img width="1200" height="526" alt="setup privs" src="https://github.com/user-attachments/assets/7b00f690-103f-4fc1-8aaf-ad4160459239" />
 
 The images below shows users being created from the CSV file (Linux), by creating a script (nano) and making it executable (chmod +x) 
+
 **Note your file path should be ~/Desktop/AdminToolKit/Tools/create_users.sh***
 
 <img width="809" height="314" alt="create users execute" src="https://github.com/user-attachments/assets/f295a0ef-ee98-4982-b707-2bc70cc876b8" />
@@ -123,6 +124,7 @@ The images below shows users being created from the CSV file (Linux), by creatin
 <img width="580" height="52" alt="users processed" src="https://github.com/user-attachments/assets/9629990c-420a-4d45-b3cf-f207a22f9b78" />
 
 The images below show the successful assignment of users to their corresponding departments (Linux)
+
 **Note your file path should be ~/Desktop/AdminToolKit/Tools/create_users_departments.sh***
 
 <img width="1160" height="663" alt="create user groups" src="https://github.com/user-attachments/assets/5ffe7761-e69c-4bf8-90ce-846f958b86fc" />
@@ -132,6 +134,7 @@ The images below show the successful assignment of users to their corresponding 
 <img width="992" height="258" alt="users processed groups" src="https://github.com/user-attachments/assets/fca1c549-27a0-4827-a798-88ff6b569b26" />
 
 The images below show the creation of log_manager.sh script for successful rotation and compression of log files (Linux)
+
 **Note your file path should be ~/Desktop/AdminToolKit/Tools/log_manager.sh***
 
 <img width="802" height="547" alt="log rotation" src="https://github.com/user-attachments/assets/70cb1d5a-805e-4435-bedf-2f7120aaf752" />
