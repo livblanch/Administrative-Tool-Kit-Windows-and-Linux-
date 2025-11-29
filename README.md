@@ -71,7 +71,8 @@ The visual below illustrates the folder setup for the Admin Toolkit (Windows)
 ![pic4](https://github.com/user-attachments/assets/0a5559ca-6966-473e-b9d4-dc5317500938)
 
 The visual below illustrates the folder setup for the Admin Toolkit (Ubuntu/Linux)
-![UbuntuBashLinuxWorkflow](https://github.com/user-attachments/assets/8c4548af-bd50-4f92-b51e-8e0fe3545d10)
+
+![UbuntuBashLinuxWorkflow2](https://github.com/user-attachments/assets/16aea8b4-f79f-4c75-b700-65590f78a71d)
 
 ## Results (Screenshots)
 1. Windows
